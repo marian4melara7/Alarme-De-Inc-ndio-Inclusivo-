@@ -5,6 +5,8 @@ Este projeto é um alarme de incêndio inclusivo, pensado para ambientes como ho
 
 O sistema utiliza LEDs com efeito visual suave (fade), buzzers com frequências variadas e um display LCD informativo, tornando o alarme mais acessível e menos agressivo para quem é sensível a estímulos sonoros ou visuais intensos.
 
+Optou-se por luzes LED verdes e demais tonalidades frias devido às evidências de menor estímulo sensorial e maior efeito calmante em pacientes neurodivergentes. O tom sonoro foi definido em 520 Hz, atendendo à NFPA 72 e aproveitando pesquisas que demonstram até doze vezes mais eficácia para despertar indivíduos adormecidos ou com perda auditiva, sem provocar desconforto auditivo excessivo.
+
 Objetivo:
 Desenvolver um sistema de alarme de incêndio adaptado às necessidades de pacientes sensíveis a sons, luzes ou mudanças bruscas, garantindo segurança e conforto durante emergências.
 
